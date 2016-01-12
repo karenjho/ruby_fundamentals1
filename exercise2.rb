@@ -10,3 +10,6 @@ good_tip = 0.2
 
 #Finally, use Ruby math to calculate the tip for the meal.
 puts "A good tip for a $#{meal_price} meal is $#{meal_price * good_tip}."
+
+#Try adding a string and an integer with the + operator.
+puts "The bill should be split between " + 4.to_s + " people."
