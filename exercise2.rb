@@ -13,3 +13,7 @@ puts "A good tip for a $#{meal_price} meal is $#{meal_price * good_tip}."
 
 #Try adding a string and an integer with the + operator.
 puts "The bill should be split between " + 4.to_s + " people."
+
+#Try ouputting the result of 45628 multiplied by 7839
+#in a sentence by using string interpolation.
+puts "45628 multiplied by 7839 is equal to #{45628 * 7839}."
