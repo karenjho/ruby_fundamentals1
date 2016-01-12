@@ -21,3 +21,4 @@ puts "45628 multiplied by 7839 is equal to #{45628 * 7839}."
 #What's the value fo the expression (10 < 20 && 30 < 20) || !(10 == 11) ?
 #My guess: true
 puts "The value of the expression is #{(10 < 20 && 30 < 20) || !(10 == 11)}."
+#Woo-hoo! I was right!
